@@ -40,5 +40,3 @@ func NewPayment() *Payment {
 	fmt.Printf("\nSummary:\nLoan Principal: £%.2f\nInterest Rate: %.2f%%\nLoan Term: %d years\n\n", p.LoanPrincipal, p.InterestRate, p.LoanTerm)
 	return p
 }
-
-

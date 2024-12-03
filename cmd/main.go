@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-
+  
 	fmt.Println("Mortgage Calculator")
 	payment := mortgage.NewPayment()
 	result, err := payment.CalculateMortgage()

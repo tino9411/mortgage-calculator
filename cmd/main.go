@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"mortgage-calculator/internal/mortgage"
+	"github.com/tino9411/mortgage-calculator/internal/mortgage"
 )
 
 func main() {
